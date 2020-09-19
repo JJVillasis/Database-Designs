@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-19T02:20:28.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="cjYNaFG6HqCwoRFzcD68" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-19T02:25:12.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Sx8i7JpuoD3Y6XUfg0Yr" version="13.7.3" type="github">
   <diagram id="ewfINVGc0YAHS9x5Z1kK" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
         <mxCell id="GLm85HNF3Pz5qWBOYTrJ-5" value="Item" style="whiteSpace=wrap;html=1;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="800" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GLm85HNF3Pz5qWBOYTrJ-6" value="Item Number" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="GLm85HNF3Pz5qWBOYTrJ-6" value="Number" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GLm85HNF3Pz5qWBOYTrJ-7" value="Sub-item" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
@@ -47,6 +47,12 @@
         </mxCell>
         <mxCell id="GLm85HNF3Pz5qWBOYTrJ-13" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="GLm85HNF3Pz5qWBOYTrJ-5" target="GLm85HNF3Pz5qWBOYTrJ-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GLm85HNF3Pz5qWBOYTrJ-16" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.375;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="GLm85HNF3Pz5qWBOYTrJ-15" target="GLm85HNF3Pz5qWBOYTrJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GLm85HNF3Pz5qWBOYTrJ-15" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Number&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="860" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
