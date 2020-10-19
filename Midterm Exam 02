@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T22:01:36.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="sMFyuaCl-epnHBso2YEq" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T22:03:20.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="fuMKK056AP761LnTplDp" version="13.8.0" type="github">
   <diagram id="hV1o8wmKmsoeO7kSM7up" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,25 +17,43 @@
           <mxGeometry x="320" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_FjDpdwdnykFT7lwkIXx-5" value="&lt;u&gt;BusID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_FjDpdwdnykFT7lwkIXx-6" value="Bus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="340" width="80" height="20" as="geometry" />
+          <mxGeometry x="160" y="300" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_FjDpdwdnykFT7lwkIXx-7" value="Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="240" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_FjDpdwdnykFT7lwkIXx-8" value="Seats" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_FjDpdwdnykFT7lwkIXx-9" value="Registration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_FjDpdwdnykFT7lwkIXx-10" value="&lt;u&gt;RNum&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="480" width="80" height="40" as="geometry" />
+        <mxCell id="_FjDpdwdnykFT7lwkIXx-10" value="&lt;u&gt;Number&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_FjDpdwdnykFT7lwkIXx-11" value="Route" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="460" width="80" height="20" as="geometry" />
+          <mxGeometry x="160" y="420" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_FjDpdwdnykFT7lwkIXx-12" value="Destination" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_FjDpdwdnykFT7lwkIXx-13" value="From" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_FjDpdwdnykFT7lwkIXx-14" value="&lt;u&gt;RNum&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_FjDpdwdnykFT7lwkIXx-15" value="Schedule" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="540" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_FjDpdwdnykFT7lwkIXx-16" value="&lt;u&gt;Day&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_FjDpdwdnykFT7lwkIXx-17" value="&lt;u&gt;Time&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
