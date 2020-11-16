@@ -1,30 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T23:43:45.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="yPd1-WEOgpcOIOI-g61P" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T23:44:46.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="_1Vm24B-UY1itnbC9FYp" version="13.9.9" type="github">
   <diagram id="nN7OSkBMJpcFrZvUANUn" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rpautWCwEuh00-_JtCUM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rpautWCwEuh00-_JtCUM-7" target="rpautWCwEuh00-_JtCUM-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rpautWCwEuh00-_JtCUM-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="480" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rpautWCwEuh00-_JtCUM-2" value="D" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="rpautWCwEuh00-_JtCUM-16">
-          <mxGeometry x="80" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rpautWCwEuh00-_JtCUM-9" value="C" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="rpautWCwEuh00-_JtCUM-16">
-          <mxGeometry x="40" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rpautWCwEuh00-_JtCUM-10" value="A" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="rpautWCwEuh00-_JtCUM-16">
-          <mxGeometry width="40" height="40" as="geometry" />
+        <mxCell id="rpautWCwEuh00-_JtCUM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rpautWCwEuh00-_JtCUM-7" target="rpautWCwEuh00-_JtCUM-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="460" />
+              <mxPoint x="120" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rpautWCwEuh00-_JtCUM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rpautWCwEuh00-_JtCUM-11" target="rpautWCwEuh00-_JtCUM-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="440" />
               <mxPoint x="340" y="460" />
-              <mxPoint x="440" y="460" />
+              <mxPoint x="460" y="460" />
+              <mxPoint x="460" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -108,6 +103,21 @@
         </mxCell>
         <mxCell id="rpautWCwEuh00-_JtCUM-47" value="Example: A B-tree of order 4 (m=4) built by inserting C, S, D, T, A, M, P, I, B, W,&lt;br/&gt;N, G, U, R, K, E, H, O, L, J, Y, Q, Z, F, X, V in that order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" width="540" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rpautWCwEuh00-_JtCUM-2" value="D" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rpautWCwEuh00-_JtCUM-9" value="C" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rpautWCwEuh00-_JtCUM-10" value="A" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rpautWCwEuh00-_JtCUM-52" value="B" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rpautWCwEuh00-_JtCUM-53" value="W" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
